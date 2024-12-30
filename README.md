@@ -1,2 +1,2 @@
 # Odoo-Sale
-This is source code for Invoicing and Delivery are Validated when confirm Odoo sale order.
+It inclues some customized modules for Odoo Sale.
